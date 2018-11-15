@@ -1,0 +1,11 @@
+C:\Users\7AO\Desktop\ZipePub\ePub\ePub\bin\Debug\ePub.exe.config
+C:\Users\7AO\Desktop\ZipePub\ePub\ePub\bin\Debug\ePub.exe
+C:\Users\7AO\Desktop\ZipePub\ePub\ePub\bin\Debug\ePub.pdb
+C:\Users\7AO\Desktop\ZipePub\ePub\ePub\obj\Debug\ePub.csproj.CoreCompileInputs.cache
+C:\Users\7AO\Desktop\ZipePub\ePub\ePub\obj\Debug\ePub.exe
+C:\Users\7AO\Desktop\ZipePub\ePub\ePub\obj\Debug\ePub.pdb
+C:\Users\7AO\Desktop\ZipePub\ePub\ePub\obj\Debug\ePub.Properties.Resources.resources
+C:\Users\7AO\Desktop\ZipePub\ePub\ePub\obj\Debug\ePub.csproj.GenerateResource.cache
+C:\Users\7AO\Desktop\ZipePub\ePub\ePub\obj\Debug\ePub.csprojAssemblyReference.cache
+C:\Users\7AO\Desktop\ZipePub\ePub\ePub\bin\Debug\Ionic.Zip.dll
+C:\Users\7AO\Desktop\ZipePub\ePub\ePub\obj\Debug\ePub.csproj.CopyComplete

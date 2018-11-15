@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="ap9788567886176" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns:epub="http://www.idpf.org/2007/ops">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+    <dc:title id="title">Trem bala</dc:title>
+    <meta refines="#title" property="title-type">main</meta>
+    <dc:creator id="creator">Ana Vilela</dc:creator>
+    <meta refines="#creator" property="role">aut</meta>
+    <dc:publisher>Editora Voo</dc:publisher>
+    <dc:identifier id="ap9788567886176">9788567886176</dc:identifier>
+    <dc:language>pt</dc:language>
+    <dc:date>2018-08-01</dc:date>
+    <meta property="dcterms:modified">2018-08-29T10:57:40Z</meta>
+    <meta name="cover" content="CoverItemId"/>
+	<meta name="generator" content="Innodata" />
+    <meta property="rendition:layout">pre-paginated</meta>
+    <meta property="rendition:orientation">auto</meta>	
+    <!--<meta property="rendition:spread">auto</meta>-->
+	<meta property="rendition:spread">both</meta>
+    <meta property="ibooks:binding">false</meta>
+	
+	<!-- Kindle FL -->
+	<meta name="fixed-layout" content="true"/>
+	<meta name="original-resolution" content="794x964"/> 
+	<meta name="book-type" content="comic"/>
+	<meta name="orientation-lock" content="landscape"/>
+	<meta name="RegionMagnification" content="false"/>
+  </metadata>
+  <manifest>
+    <item id="toc" href="toc.xhtml" properties="nav" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-1" href="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-2" href="pageNum-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-3" href="pageNum-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-4" href="pageNum-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-5" href="pageNum-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-6" href="pageNum-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-7" href="pageNum-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-8" href="pageNum-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-9" href="pageNum-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-10" href="pageNum-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-11" href="pageNum-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-12" href="pageNum-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-13" href="pageNum-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-14" href="pageNum-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-15" href="pageNum-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-16" href="pageNum-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-17" href="pageNum-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-18" href="pageNum-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-19" href="pageNum-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-20" href="pageNum-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-21" href="pageNum-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-22" href="pageNum-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-23" href="pageNum-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-24" href="pageNum-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-25" href="pageNum-25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-26" href="pageNum-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-27" href="pageNum-27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-28" href="pageNum-28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-29" href="pageNum-29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-30" href="pageNum-30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-31" href="pageNum-31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-32" href="pageNum-32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-33" href="pageNum-33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-34" href="pageNum-34.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-35" href="pageNum-35.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-36" href="pageNum-36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-37" href="pageNum-37.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-38" href="pageNum-38.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-39" href="pageNum-39.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_pageNum-40" href="pageNum-40.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CoverItemId" href="images/cover.jpg" properties="cover-image" media-type="image/jpeg"/>
+
+    <item id="i_pg2" href="images/pg2.jpg" media-type="image/jpeg"/>
+    <item id="i_pg3" href="images/pg3.jpg" media-type="image/jpeg"/>
+    <item id="i_pg4" href="images/pg4.jpg" media-type="image/jpeg"/>
+    <item id="i_pg5" href="images/pg5.jpg" media-type="image/jpeg"/>
+    <item id="i_pg6" href="images/pg6.jpg" media-type="image/jpeg"/>
+    <item id="i_pg7" href="images/pg7.jpg" media-type="image/jpeg"/>
+    <item id="i_pg8" href="images/pg8.jpg" media-type="image/jpeg"/>
+    <item id="i_pg9" href="images/pg9.jpg" media-type="image/jpeg"/>
+    <item id="i_pg10" href="images/pg10.jpg" media-type="image/jpeg"/>
+    <item id="i_pg11" href="images/pg11.jpg" media-type="image/jpeg"/>
+    <item id="i_pg12" href="images/pg12.jpg" media-type="image/jpeg"/>
+    <item id="i_pg13" href="images/pg13.jpg" media-type="image/jpeg"/>
+    <item id="i_pg14" href="images/pg14.jpg" media-type="image/jpeg"/>
+    <item id="i_pg15" href="images/pg15.jpg" media-type="image/jpeg"/>
+    <item id="i_pg16" href="images/pg16.jpg" media-type="image/jpeg"/>
+    <item id="i_pg17" href="images/pg17.jpg" media-type="image/jpeg"/>
+    <item id="i_pg18" href="images/pg18.jpg" media-type="image/jpeg"/>
+    <item id="i_pg19" href="images/pg19.jpg" media-type="image/jpeg"/>
+    <item id="i_pg20" href="images/pg20.jpg" media-type="image/jpeg"/>
+    <item id="i_pg21" href="images/pg21.jpg" media-type="image/jpeg"/>
+    <item id="i_pg22" href="images/pg22.jpg" media-type="image/jpeg"/>
+    <item id="i_pg23" href="images/pg23.jpg" media-type="image/jpeg"/>
+    <item id="i_pg24" href="images/pg24.jpg" media-type="image/jpeg"/>
+    <item id="i_pg25" href="images/pg25.jpg" media-type="image/jpeg"/>
+    <item id="i_pg26" href="images/pg26.jpg" media-type="image/jpeg"/>
+    <item id="i_pg27" href="images/pg27.jpg" media-type="image/jpeg"/>
+    <item id="i_pg28" href="images/pg28.jpg" media-type="image/jpeg"/>
+    <item id="i_pg29" href="images/pg29.jpg" media-type="image/jpeg"/>
+    <item id="i_pg30" href="images/pg30.jpg" media-type="image/jpeg"/>
+    <item id="i_pg31" href="images/pg31.jpg" media-type="image/jpeg"/>
+    <item id="i_pg32" href="images/pg32.jpg" media-type="image/jpeg"/>
+    <item id="i_pg33" href="images/pg33.jpg" media-type="image/jpeg"/>
+    <item id="i_pg34" href="images/pg34.jpg" media-type="image/jpeg"/>
+    <item id="i_pg35" href="images/pg35.jpg" media-type="image/jpeg"/>
+    <item id="i_pg36" href="images/pg36.jpg" media-type="image/jpeg"/>
+    <item id="i_pg37" href="images/pg37.jpg" media-type="image/jpeg"/>
+    <item id="i_pg38" href="images/pg38.jpg" media-type="image/jpeg"/>
+    <item id="i_pg39" href="images/pg39.jpg" media-type="image/jpeg"/>
+    <item id="i_pg40" href="images/pg40.jpg" media-type="image/jpeg"/>
+    <item id="css" href="css/default.css" media-type="text/css"/>
+  </manifest>
+  <spine>
+    <itemref idref="c_pageNum-1"/>
+    <itemref idref="c_pageNum-2" properties="page-spread-left"/>
+    <itemref idref="c_pageNum-3" properties="page-spread-right"/>
+    <itemref idref="c_pageNum-4" properties="page-spread-left"/>
+    <itemref idref="c_pageNum-5" properties="page-spread-right"/>
+    <itemref idref="c_pageNum-6" properties="page-spread-left"/>
+    <itemref idref="c_pageNum-7" properties="page-spread-right"/>
+    <itemref idref="c_pageNum-8" properties="page-spread-left"/>
+    <itemref idref="c_pageNum-9" properties="page-spread-right"/>
+    <itemref idref="c_pageNum-10" properties="page-spread-left"/>
+    <itemref idref="c_pageNum-11" properties="page-spread-right"/>
+    <itemref idref="c_pageNum-12" properties="page-spread-left"/>
+    <itemref idref="c_pageNum-13" properties="page-spread-right"/>
+    <itemref idref="c_pageNum-14" properties="page-spread-left"/>
+    <itemref idref="c_pageNum-15" properties="page-spread-right"/>
+    <itemref idref="c_pageNum-16" properties="page-spread-left"/>
+    <itemref idref="c_pageNum-17" properties="page-spread-right"/>
+    <itemref idref="c_pageNum-18" properties="page-spread-left"/>
+    <itemref idref="c_pageNum-19" properties="page-spread-right"/>
+    <itemref idref="c_pageNum-20" properties="page-spread-left"/>
+    <itemref idref="c_pageNum-21" properties="page-spread-right"/>
+    <itemref idref="c_pageNum-22" properties="page-spread-left"/>
+    <itemref idref="c_pageNum-23" properties="page-spread-right"/>
+    <itemref idref="c_pageNum-24" properties="page-spread-left"/>
+    <itemref idref="c_pageNum-25" properties="page-spread-right"/>
+    <itemref idref="c_pageNum-26" properties="page-spread-left"/>
+    <itemref idref="c_pageNum-27" properties="page-spread-right"/>
+    <itemref idref="c_pageNum-28" properties="page-spread-left"/>
+    <itemref idref="c_pageNum-29" properties="page-spread-right"/>
+    <itemref idref="c_pageNum-30" properties="page-spread-left"/>
+    <itemref idref="c_pageNum-31" properties="page-spread-right"/>
+    <itemref idref="c_pageNum-32" properties="page-spread-left"/>
+    <itemref idref="c_pageNum-33" properties="page-spread-right"/>
+    <itemref idref="c_pageNum-34" properties="page-spread-left"/>
+    <itemref idref="c_pageNum-35" properties="page-spread-right"/>
+    <itemref idref="c_pageNum-36" properties="page-spread-left"/>
+    <itemref idref="c_pageNum-37" properties="page-spread-right"/>
+    <itemref idref="c_pageNum-38" properties="page-spread-left"/>
+    <itemref idref="c_pageNum-39" properties="page-spread-right"/>
+    <itemref idref="c_pageNum-40"/>
+  </spine>
+ </package>

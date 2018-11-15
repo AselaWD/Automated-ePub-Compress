@@ -1,0 +1,29 @@
+/*.fontfamily {
+  font-family:;
+}*/
+
+body {
+  width:794px;
+  height: 964px;
+  margin:0;
+  -webkit-user-select: none;
+}
+
+body > div {
+  width:794px;
+  height: 964px;
+  overflow: hidden;
+  position: relative;
+}
+
+img {
+  height: 964px;
+  position: absolute;
+}
+
+p {
+  position: absolute;
+  margin:0px;
+  width:100%;
+}
+
